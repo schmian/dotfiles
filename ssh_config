@@ -1,0 +1,4 @@
+Host engin
+	HostName login.engin.umich.edu
+	User schmian
+	Port 22
